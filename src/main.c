@@ -64,7 +64,7 @@ int main(void) {
 	
 
 	// ToDo: Declare pointers for GPIO registers
-		uint32_t *moder = (uint32_t *)0x40021800;
+	uint32_t *moder = (uint32_t *)0x40021800;
 
 
 
